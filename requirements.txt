@@ -1,0 +1,13 @@
+# SafeOrbit - Visão Computacional (ACV)
+# Para Google Colab a maioria já vem instalada; instale apenas o que faltar.
+# Para rodar localmente / a app Streamlit:  pip install -r requirements.txt
+
+tensorflow>=2.15
+datasets>=2.18        # Hugging Face: baixa o EuroSAT de espelho confiavel
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+scikit-learn>=1.3
+pandas>=2.0
+pillow>=10.0
+streamlit>=1.30
