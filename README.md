@@ -19,7 +19,7 @@ Duas redes neurais convolucionais (CNNs) **criadas do zero**, comparadas entre s
 | Joel Barros | RM550378 | 4ESR |
 | Leonardo Moreira | RM550988 | 4ESR |
 
-🎥 **Vídeo de apresentação (até 3 min):** _https://youtube.com/... (cole o link aqui)_
+🎥 **Vídeo de apresentação (até 3 min):https://youtu.be/2TBT9USoxR4
 
 ---
 
